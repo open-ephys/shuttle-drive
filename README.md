@@ -1,6 +1,4 @@
-# shuttle-drive
-
-Next gen. tetrode drive implant 
+# shuttle-drive, the next gen. tetrode drive implant 
 
 ![mouse drive](doc/img/mousedrive_landing_page_img.png)
 
