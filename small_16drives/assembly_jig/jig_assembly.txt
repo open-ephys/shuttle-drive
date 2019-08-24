@@ -1,0 +1,58 @@
+Assembly jigs:
+
+
+The jigs are made up of various 3d-printed components, and a few screws and dowels.
+Some components can be printed with relatively low-resolution processes (ideally sintered nylon powder at !0.12mm layer height, but high quality fused plastic could also work), while some required medium-resolution printing (Multijet Modeling or Stereolithography, with around 0.03mm layer thickness).
+The components are:
+ 
+Base (low quality) - the base everything else sits on. Shared bwteeen the rat and the mouse design. All other componets differ between the two variants.
+
+Outer drive holder (medium quality*) - connects to the base and holds the drive holder.
+
+Inner drive holder (medium quality*) - sits inside the outer drive holder and directly holds the drive body, allowing it to rotate around its major axis.
+
+Inner EIB holder (medium quality*) - holds the EIB, allowing it to rotate. This part may have to be customized to fit the desired type of EIB.
+
+Outer EIB holder (medium quality*) - Holds the inner EIB holder.
+
+Manual adjustment know (low quality) to amke adjusting the long screw easier - hand-adjustible screws can be used alternatively, or tools can be used ot adjust mechnaism distance.
+
+* for the rat variant, all parts can be printed with a lower quality process in some cases.
+
+The outer EIB and drive holders form a linear slide that allows adjustments of their distance to each other. This slide is formed by two dowels and a screw.
+
+
+
+BOM (part numbers are Mcmaster-Carr):
+
+both variants
+4x parts medium quality 3d printing, separate for rat and mouse drives, the rat variant has less stringent resolution requirements.
+1x part low quality 3d printing.
+1x lead disc, 1/2" Thick, 2-3/4" OD, #	90385K22 $19
+1x M2 screw and nut for clamping drive holder to base. # 	91292A032 , $6 for 10
+1x plastics compatible lubricant for bearing surfaces (optional) 
+
+Mouse variant
+2x M3 40mm dowels, # 91585A426, $10 for 25
+1x M3 40mm screw, fully threaded, # 	91292A024, $ 3 for 25
+1x M3 washer (for gluing against top slide as retainer), # 	90965A130, $3 for 100
+1x M1 screw (for holding in drive especially securely, optional)
+
+
+Rat variant
+2x M5 70mm dowels
+1x M5 70mm screw, fully threaded
+2x M3x15mm screws for holding drive to drive holder
+1x M2xXXmm screw, non-threaded below screw head, to make IEB holder pin
+1x M2 nut for manual adjustment, either knurled, or wing nut.
+
+
+Assembling the assembly jigs: 
+
+- Glue lead disc into base with epoxy, and cover entire base surface with epoxy, so that no lead remains exposed.
+- The dowels should slide freely trough the lower side of the slide / trough the outher drive holder, and the adjustment screw should freely slide trough the hold in the outer EIB holder. If not, these holes can be drilled out.
+- If needed, the dowels can be glued into one side of the linear slide by using the provided glue pockets, and similarly, threads for the adjustment screw can be formed by lightly oiling the screw, turning it trough the lower part of the slide (the outer drive holder) and the filling the provided cavity with epoxy.
+- Insert lower EIB holder into the base, and add clamping screw and nut. 
+- (For the mouse variant) insert inner EIB holder into outer EIB holder and add clamping screw and nut.
+- Glue clamping nuts to the 3d printed parts with epoxy in their clamped state.
+- Insert slide with EIB holder into the outer drive holder and verify proper function of the distance adjustment.
