@@ -35,5 +35,6 @@ https://docs.google.com/spreadsheets/d/1LGhZMRnzcyo_r0Nunrh_lfmy5V0NHia-rGRHAYOW
 ### Citing the drive: 
 When using the Open Ephys shuttle drive implants, please cite the paper:
 
-Jakob Voigts, Jonathan P. Newman, Matthew A. Wilson, Mark T. Harnett (2019). An easy-to-assemble, robust, and light drive implant for chronic tetrode recordings in freely moving animals
+Jakob Voigts, Jonathan P. Newman, Matthew A. Wilson, Mark T. Harnett (2019). An easy-to-assemble, robust, and lightweight drive implant for chronic tetrode recordings in freely moving animals
+https://www.biorxiv.org/content/10.1101/746651v1
 
