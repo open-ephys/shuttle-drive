@@ -32,6 +32,10 @@ To assemble the drive, an assembly jig, and some other tools are needed.
 https://docs.google.com/spreadsheets/d/1LGhZMRnzcyo_r0Nunrh_lfmy5V0NHia-rGRHAYOWq4o/edit?usp=sharing
 
 
+### Availability
+Drive components are available at http://www.open-ephys.org/drive-implant
+
+
 ### Citing the drive: 
 When using the Open Ephys shuttle drive implants, please cite the paper:
 
