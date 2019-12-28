@@ -39,6 +39,18 @@ needed. Both are available on the Open Ephys store.
 - Assembly jig 
 - Custom screwdriver 
 
+### Building instructions & Documentation
+
+For a quick initial overview, we provide a brief video detailing all the major steps of assembling the drive: [Assembly steps on youtube](https://www.youtube.com/watch?v=VBs4_pltE6o&feature=emb_logo).
+
+The main documentation and building instructions are in the accompanying manuscript: [Voigts et al.  An
+easy-to-assemble, robust, and lightweight drive implant for chronic tetrode
+recordings in freely moving animals](https://www.biorxiv.org/content/10.1101/746651v1). We recommend this manuscript as a starting point because it covers a lot of possible issues and goes into considerable detail on how to achieve the best results.
+
+We also provide a [spreadsheet with step-by-step instructions](https://docs.google.com/spreadsheets/d/1qlOEyMCUptONbd9Ac4yKie1TxPHhV1puGx7GZTR9lvk/edit?usp=sharing), provided by Dimitra Vardalaki.
+
+Finally, we encourage contributions from anyone, particularly additional information on variants and build instructions in nay form, including pull-requests or links to external documentation.
+
 ### Parts List / Bill of Materials
 The bill of materials is located on this [google sheet](https://docs.google.com/spreadsheets/d/1LGhZMRnzcyo_r0Nunrh_lfmy5V0NHia-rGRHAYOWq4o/edit?usp=sharing)
 
