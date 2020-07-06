@@ -43,7 +43,9 @@ needed. Both are available on the Open Ephys store.
 
 For a quick initial overview, we provide a brief video detailing all the major steps of assembling the drive: [Assembly steps on youtube](https://www.youtube.com/watch?v=VBs4_pltE6o&feature=emb_logo).
 
-The main documentation and building instructions are in the accompanying manuscript: [Voigts et al.  An
+The main documentation and building instructions are in the accompanying manuscript:
+
+[Voigts et al.  An
 easy-to-assemble, robust, and lightweight drive implant for chronic tetrode
 recordings in freely moving animals](https://www.biorxiv.org/content/10.1101/746651v1). We recommend this manuscript as a starting point because it covers a lot of possible issues and goes into considerable detail on how to achieve the best results.
 
@@ -57,9 +59,10 @@ The bill of materials is located on this [google sheet](https://docs.google.com/
 ### Citing this Work 
 When using the Open Ephys shuttle drive implants, please cite the paper:
 
-Jakob Voigts, Jonathan P. Newman, Matthew A. Wilson, Mark T. Harnett (2019). An
-easy-to-assemble, robust, and lightweight drive implant for chronic tetrode
-recordings in freely moving animals [Link](https://www.biorxiv.org/content/10.1101/746651v1)
+An easy-to-assemble, robust, and lightweight drive implant for chronic tetrode recordings in freely moving animals
+J Voigts, JP Newman, MA Wilson, MT Harnett
+Journal of Neural Engineering 17 (2), 026044
+ [Link jne](https://iopscience.iop.org/article/10.1088/1741-2552/ab77f9/meta) [Link biorxiv](https://www.biorxiv.org/content/10.1101/746651v1) 
 
 ## License
 Copyright Jakob Voigts, Jonathan P. Newman 2019.
