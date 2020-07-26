@@ -65,14 +65,8 @@ Journal of Neural Engineering 17 (2), 026044
  [Link jne](https://iopscience.iop.org/article/10.1088/1741-2552/ab77f9/meta) [Link biorxiv](https://www.biorxiv.org/content/10.1101/746651v1) 
 
 ## License
-Copyright Jakob Voigts, Jonathan P. Newman 2019.
+Copyright Jakob Voigts, Jonathan P. Newman 2020.
 
-This documentation describes Open Hardware and is licensed under the
-CERN OHL v.1.2.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/igo/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/igo/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO License</a>.
 
-You may redistribute and modify this documentation under the terms of the CERN
-OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed WITHOUT
-ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY
-QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for
-applicable conditions
-
+If your are interested in obtaining a license to sell this device, please contact us at https://open-ephys.org/contact
